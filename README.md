@@ -1,3 +1,4 @@
+[![MasterHead](https://i.gifer.com/9WsF.gif)](https://abdulrafey.com)
 <h1 align="center">Hi 👋, I'm Abdul Rafey</h1>
 <h3 align="center">A passionate and enthusiastic individual, dedicated to continuous learning and collaboration as a team player. Focused on solving real-world business problems by leveraging cutting-edge technologies to meet and exceed client requirements.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
