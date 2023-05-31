@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **arafey183@gmail.com**
 
-- 📄 Know about my experiences [https://abdulrafey.com/resume](https://abdulrafey.com/resume)
+- 📄 Know about my experiences [https://abdulrafey.com](https://abdulrafey.com)
 
 - ⚡ Fun fact **I love to code in Python**
 
