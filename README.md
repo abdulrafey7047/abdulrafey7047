@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Rafey</h1>
 <h3 align="center">A passionate and enthusiastic individual, dedicated to continuous learning and collaboration as a team player. Focused on solving real-world business problems by leveraging cutting-edge technologies to meet and exceed client requirements.</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrafey7047&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrafey7047" /> </p>
 
