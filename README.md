@@ -1,6 +1,8 @@
 [![MasterHead](https://coderz.zendesk.com/hc/article_attachments/360017920340/u3YoSRgCGg.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdul Rafey</h1>
-<h3 align="center">A passionate and enthusiastic individual, dedicated to continuous learning and collaboration as a team player. Focused on solving real-world business problems by leveraging cutting-edge technologies to meet and exceed client requirements.</h3>
+<h3 align="center">
+  A passionate and enthusiastic individual, dedicated to continuous learning and collaboration as a team player. Focused on solving real-world business problems by   leveraging cutting-edge technologies, and having fun while doing so.
+</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrafey7047&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrafey7047" /> </p>
@@ -15,7 +17,7 @@
 
 - 📄 Know about my experiences [https://abdulrafey.com](https://abdulrafey.com)
 
-- ⚡ Fun fact **I love to code in Python**
+- ⚡ Fun fact **I weigh 56kg but I can deadlift 60kg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
