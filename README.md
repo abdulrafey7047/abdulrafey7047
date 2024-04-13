@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrafey7047&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrafey7047" /> </p>
 
-- 🌱 I’m currently learning **AWS Services**
+- 🌱 I’m currently learning **next.js**
 
-- 📝 I regularly write articles on [https://medium.com/@arafey183](https://medium.com/@arafey183)
+- 📝 I write articles on [https://medium.com/@arafey183](https://medium.com/@arafey183)
 
 - 💬 Ask me about **Python, Django**
 
